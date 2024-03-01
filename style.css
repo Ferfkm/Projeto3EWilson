@@ -10,3 +10,7 @@
     --botao-ativo: rgba(17, 209, 243, 0.795);
     --texto-fundo: rgba(13, 105, 122, 0.3);
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
